@@ -1,0 +1,37 @@
+.mainDiv {
+    padding-top: 30px;
+    margin-top: 150px;
+    padding-bottom: 70px;
+    box-shadow: 2px 3px 34px -6px rgba(0,0,0,0.69);
+ }
+
+ .labelStyle {
+    font-size: 30px;
+    font-weight: bold;
+    color: #3f51b5;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: block
+}
+
+.inputDivStyle {
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 5px 10px 69px 0px rgba(173,159,173,1)
+}
+
+.inputButtonStyle {
+    margin: 4px 0 6px 4px !important
+}
+
+.generateDivCss  {
+    margin-left: 50px;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 20px;
+}
+
