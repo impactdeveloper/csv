@@ -214,7 +214,7 @@ const App = () => {
             <Container maxWidth="md">
                 <div className="mainDiv">
                     <label htmlFor="csvInput" className="labelStyle">
-                        Welcome to CSV Compiler 123
+                        Welcome to CSV Compiler
                     </label>
                     <div className="inputDivStyle">
                         <Button
